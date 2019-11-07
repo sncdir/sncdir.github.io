@@ -5,8 +5,8 @@ You can download the Safety Net Clinic's Referral directory for the year 2019 fr
 
 # PDF File
 
-[Download PDF File]("assets\Safety-Net-Clinic-Referral-Directory-2019.pdf")
+[Download PDF File](assets\Safety-Net-Clinic-Referral-Directory-2019.pdf)
 
 # Word File
 
-[Download Doc File]("assets\Safety-Net-Clinic-Referral-Directory-2019.doc")
+[Download Doc File](assets\Safety-Net-Clinic-Referral-Directory-2019.doc)
